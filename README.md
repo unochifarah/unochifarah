@@ -28,7 +28,7 @@ Currently building a portfolio of hands-on projects that showcase my skills in d
 
 - **Layoffs Data Cleaning (SQL)**  
   Cleaned and standardized real-world tech layoffs data using SQL.  
-  [View Project →](https://github.com/your-username/data-analytics-portfolio/blob/main/layoffs_data_cleaning.sql)
+  [View Project →](https://github.com/unochifarah/data-analytics-portfolio/blob/main/layoffs_data_cleaning.sql)
 
 - *(More projects coming soon — Python EDA, visualization, etc.)*
 
