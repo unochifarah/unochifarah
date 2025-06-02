@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Jasmine 👋</h1>
 
 <p align="center">
-  🎓 Game Technology Student • 📊 Aspiring Data Analyst • 🇮🇩 Based in Yogyakarta  
+  🎓 Fresh Graduate in Game Technology • 📊 Aspiring Data Analyst • 🇮🇩 Based in Yogyakarta  
 </p>
 
 ---
 
 ### 💡 About Me
 
-I'm a final-year student at STMM "MMTC" Yogyakarta with a growing passion for **data analytics**.  
+I'm a fresh graduate from the Game Technology program at STMM "MMTC" Yogyakarta, transitioning into the world of **data analytics**.  
 I enjoy transforming messy datasets into structured insights using **SQL** and **Python**.  
 Currently building a portfolio of hands-on projects that showcase my skills in data cleaning, transformation, and exploratory analysis.
 
