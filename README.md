@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Jasmine 👋</h1>
+<h1 align="center">Hi, I'm Jasmine </h1>
 
 <p align="center">
-  🎓 Fresh Graduate in Game Technology • 📊 Aspiring Data Analyst • 🇮🇩 Based in Yogyakarta  
+  Fresh Graduate in Game Technology • Aspiring Data Analyst • 🇮🇩 Based in Yogyakarta  
 </p>
 
 ---
 
-### 💡 About Me
+### About Me
 
 I'm a fresh graduate from the Game Technology program at STMM "MMTC" Yogyakarta, transitioning into the world of **data analytics**.  
 I enjoy transforming messy datasets into structured insights using **SQL** and **Python**.  
@@ -14,17 +14,17 @@ Currently building a portfolio of hands-on projects that showcase my skills in d
 
 ---
 
-### 🧠 Core Skills
+### Core Skills
 
-- 📌 **Languages & Tools**: SQL (MySQL), Python (Pandas, NumPy), Excel
-- 🧹 **Data Cleaning**: Null handling, deduplication, standardization
-- 📈 **Analysis & Insight Extraction**: Grouping, aggregation, EDA
-- 📊 **Visualization**: Matplotlib, Seaborn (coming soon)
-- 💾 **Version Control**: Git & GitHub
+- **Languages & Tools**: SQL (MySQL), Python (Pandas, NumPy), Excel
+- **Data Cleaning**: Null handling, deduplication, standardization
+- **Analysis & Insight Extraction**: Grouping, aggregation, EDA
+- **Visualization**: Matplotlib, Seaborn (coming soon)
+- **Version Control**: Git & GitHub
 
 ---
 
-### 📁 Portfolio Projects
+### Portfolio Projects
 
 - **Layoffs Data Cleaning (SQL)**  
   Cleaned and standardized real-world tech layoffs data using SQL.  
@@ -34,7 +34,7 @@ Currently building a portfolio of hands-on projects that showcase my skills in d
 
 ---
 
-### 🚀 Currently Learning
+### Currently Learning
 
 - Advanced SQL queries and optimization
 - Python for data analysis and visualization
@@ -42,10 +42,10 @@ Currently building a portfolio of hands-on projects that showcase my skills in d
 
 ---
 
-### 📬 Let’s Connect
+### Let’s Connect
 
-- 📧 jasmineunochii@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/jasmine-unochi)  
-- 🗂 [My Portfolio Repository](https://github.com/unochifarah/data-analytics-portfolio)
+- jasmineunochii@gmail.com
+- [LinkedIn](https://linkedin.com/in/jasmine-unochi)  
+- [My Portfolio Repository](unochifarah.github.io)
 
 ---
