@@ -52,6 +52,6 @@ Currently building a portfolio of hands-on projects that showcase my skills in d
 
 - jasmineunochii@gmail.com
 - [LinkedIn](https://linkedin.com/in/jasmine-unochi)  
-- [My Portfolio Repository](unochifarah.github.io)
+- [My Portfolio Repository](https://unochifarah.github.io/)
 
 ---
