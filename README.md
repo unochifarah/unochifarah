@@ -32,7 +32,7 @@ Currently building a portfolio of hands-on projects that showcase my skills in d
 
 - **E-commerce Customer Behavior — RFM & Churn Analysis (PostgreSQL + Power BI)**  
   Performed RFM segmentation and churn analysis on 500K+ transactions using CTEs and window functions across a relational 8-table schema.
-  [View Project →]([https://github.com/unochifarah/AWS-SaaS-Sales-Analysis](https://github.com/unochifarah/E-commerce-Customer-Behavior-Analysis))
+  [View Project →](https://github.com/unochifarah/E-commerce-Customer-Behavior-Analysis)
 
 - **Supply Chain Logistics Cost & Efficiency Analysis (Excel + Power Query + Power BI)**  
   Built a 7-table transformation pipeline in Power Query to analyze warehouse utilization, freight costs, and shipping route efficiency.
